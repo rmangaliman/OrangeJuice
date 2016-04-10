@@ -1,0 +1,160 @@
+/* Navigation Bar*/
+
+.topNav li {
+	float: right;
+	margin-right: 30px;
+	margin-top: 0px;
+	display: inline-block;
+	position: relative;
+	top: -55px;
+	font-size: 20px;
+	padding: 5px 10px 0 1;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.topbar {
+	width: 6%;
+	float: left;
+	position: static;
+}
+
+nav {
+	background-color: #FE7E00;
+	height: 70px;
+	position: relative;
+	top: -22px;
+}
+
+body {
+	width: 100%;
+}
+
+.logoname {
+	font-size: 50px;
+	color: white;
+}
+
+.juice{
+	color: #FEA647;
+	font-size: 45px;
+	position: static;
+}
+
+/* Search bar */
+
+.search {
+	width: 50px;
+	margin-left: 1200px;
+	display: inline-block;
+	position: relative;
+}
+
+.search input {
+	width: 250px;
+    margin-left: -100px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    font-size: 16px;
+    display: block;
+    position: relative;
+}
+
+.image {
+	background-color: #F2F2F2;
+	position: relative;
+	margin right: 0;
+}
+
+
+.info {
+	float: right;
+	font-size: 20px;
+
+}
+
+/* BUTTON */
+
+.quote {
+	background-color: #FE7E00;
+	border: none;
+	color: white;
+	padding: 15px 57px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: relative;
+}
+
+.studies {
+	background-color: #7BCAC6;
+	border: none;
+	color: white;
+	padding: 15px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: auto;
+	cursor: pointer;
+	position: relative;
+}
+
+.buttons {
+	float: right;
+	margin-bottom: 0;
+	margin-top: -10%;
+	margin-right: 15%;
+	margin-left: 0;
+	position: relative;
+}
+
+/* PARAGRAPH */
+
+p {
+	margin-left: 50%;
+	margin-right: 10%;
+	float: right;
+	font-size: 38px;
+	font-family: sans-serif;
+	margin-top: -25%;
+	position: relative;
+	display: inline-block;
+	color: #EB9F34;
+
+}
+
+.web {
+	color: #78CBC9;
+}
+
+.info span {
+	color: #FF7E00;
+}
+
+#app {
+	color: blue;
+}
+
+/* FOOTER */
+
+.footer {
+	background-color: #7ACCC8;
+	margin-top: 5%;
+	margin-bottom: 0;
+	font-size: 15px;
+	padding-top: 80px;
+	padding-bottom: 0;
+
+
+}
+
+
+
